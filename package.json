@@ -1,0 +1,14 @@
+{
+  "name": "terminal-hourly-weather",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alice Maldonado",
+  "license": "ISC",
+  "dependencies": {
+    "node-schedule": "^1.3.0"
+  }
+}
